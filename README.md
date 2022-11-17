@@ -1,4 +1,5 @@
 # TemplatesGolang
 
-this program is an template for a simple 
-ping pong server using net/http
+this program is a template for
+ 
+server_http --> a simple ping pong server using net/http
